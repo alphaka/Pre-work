@@ -8,4 +8,4 @@ mobile software develpment.
 ### App Walk-through
 
 Please click on the link below to display a gif of the app
-<img src = "https://ezgif.com/video-to-gif/ezgif-3-787ec7f25598.mov" width=200><br>
+https://ezgif.com/video-to-gif/ezgif-3-787ec7f25598.mov
