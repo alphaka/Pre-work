@@ -8,7 +8,7 @@ mobile software develpment.
 ### App Walk-through
 
 Please click on the link below to display a gif of the app
-<img src="https://gph.is/g/EvWn3y7" width=200><br>
+<img src="https://gph.is/g/EvWn3y7" width=200 height = 500><br>
 
 
 ### Required User Stories
