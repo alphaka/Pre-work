@@ -2,7 +2,7 @@
 
 ### App Description
 This program goal is to demonstrate that I have some basic skills in
-mobile software develpment.
+mobile software development.
 
 
 ### App Walk-through
